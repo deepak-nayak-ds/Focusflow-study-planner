@@ -8,9 +8,9 @@ focus with a Pomodoro timer linked to those tasks, and track your progress.
 > Add your own screenshots to a `screenshots/` folder (press **Win + Shift + S**
 > to capture), then keep or edit the lines below.
 
-| Dashboard | Manage Tasks | Study Planner |
+| Dashboard | Manage Tasks | Study Planner | Study Report
 |---|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Tasks](screenshots/tasks.png) | ![Planner](screenshots/planner.png) |
+| ![Dashboard](screenshots/dashboard.png) | ![Tasks](screenshots/tasks.png) | ![Planner](screenshots/planner.png) | ![Report](screenshots/report.png)
 
 ## Features
 
